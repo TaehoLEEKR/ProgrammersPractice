@@ -11,3 +11,4 @@ def solution(left, right):
         else:
             arr.append(-i)
     return sum(arr)
+    #

@@ -3,3 +3,4 @@ def solution(a, b):
     for i,k in zip(a,b):
         sums += (i*k)
     return sums
+    #
